@@ -4,10 +4,11 @@
 
 ---
 
-### 🚀 Enterprise SaaS & Ambient AI
-- **[AUI V2 — Universal Visualization Engine](https://svsrva.com/aui/):** Zero-build UI-as-a-Service API & MCP engine that transforms raw JSON payloads from AI agents into interactive **DataTables**, **DayPilot Schedulers**, and **CRM Pivot Views** with built-in SMS & Email sharing.
+### 🚀 Enterprise SaaS & Agentic UI
+- **[`aui-mcp` — Agentic UI Engine V2.6 MCP Server](https://github.com/rpmccormick/aui-mcp) ([Live Demo & Overview](https://svsrva.com/aui/) • [Sandbox](https://svsrva.com/aui/demo.html)):** Sub-50ms visualization API & Model Context Protocol (`MCP`) server that turns raw JSON payloads, SQL rows, and CSVs from AI agents into interactive **2-Line DataTables (`dt`)**, **Apache ECharts (`cg`)**, **Omni-Time V3 60fps Spatial Timelines (`tl`)**, and **DayPilot 2D Resource Tapes (`dp`)** with built-in Twilio SMS & Mailgun Email sharing.
+- **[Essay: *"Agents Are Taking My Agency"*](https://svsrva.com/agency):** Why natural language is the ultimate creator HMI—and why text-only chat boxes fail as the user HMI.
 - **[`Atmosphere`](https://github.com/rpmccormick/Atmosphere) ([Live Demo](https://svsrva.com/atmosphere/)):** Real-time conversation-to-photo & Smart Q&A TV display powered by Google Gemini Flash, Pexels 4K photography, Wikipedia Commons, and Web Speech API.
-- **Hotel Direct PMS:** Multi-tenant hospitality Property Management System, channel manager, and real-time operational telemetry suite.
+- **Hotel Direct PMS / OneStopPMS:** Multi-tenant hospitality Property Management System, channel manager, AI voice/SMS concierge, and real-time operational telemetry suite.
 
 ---
 
